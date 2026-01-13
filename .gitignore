@@ -1,0 +1,10 @@
+# Variables d'environnement sensibles
+.env
+
+# Données Directus
+database/
+uploads/
+extensions/
+
+# Logs
+*.log
